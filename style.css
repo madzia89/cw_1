@@ -1,8 +1,13 @@
+  h3 {
+     font-family: FreeSans;
+      color: blue;
+  }
+h2 {
+    color: yellow;
+    font-family: arial
+
+
+}
 h1 {
 backgorund-color: green
 }
-h2 {
-color: blue;
-font-family: arial
-}
-
